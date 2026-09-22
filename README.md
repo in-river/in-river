@@ -13,7 +13,7 @@ Flutter・Pythonを中心に、データを活用して身近な課題を解決�
 
 ## Projects
 
-### 👕 [Dry Now](https://github.com/in-river/DryNow)
+### 👕 [DryNow](https://github.com/in-river/DryNow)
 気象予報とユーザーの物干し環境から、
   
 - 今から外に干して大丈夫か  
@@ -28,7 +28,7 @@ Flutter・Pythonを中心に、データを活用して身近な課題を解決�
 乾燥時間予測には、VPD・風速・日射・物干し環境などを用いた[乾燥時間予測モデル](https://github.com/in-river/DryNow/blob/main/docs/DRYING_MODEL_V1.md)を実装しています。
 
 
-### 💪 [Muscle Note](https://github.com/in-river/MuscleNote)
+### 💪 [MuscleNote](https://github.com/in-river/muscle-note)
 Pythonで作成した筋トレ記録アプリです。  
   - トレーニング記録  
   - 種目カテゴリ管理  
